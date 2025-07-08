@@ -43,3 +43,4 @@ export default defineConfig([{
         semi: [2, "always"],
     },
 }]);
+
